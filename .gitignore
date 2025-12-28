@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Frontend
+/frontend/node_modules/
+/dist
+
+# Backend
+/backend/node_modules/
+
+# Env
+.env
+
+# Editor
+.vscode/
+.DS_Store
